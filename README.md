@@ -1,6 +1,6 @@
 # COVID 19 - Reopening Counties Safely
 <p align="center">
-  <img width="auto" height="auto" src="https://californiahealthline.org/wp-content/uploads/sites/3/2020/06/bernardcovid19-01.jpg?w=1024">
+  <img width="auto" height="auto" src="https://californiahealthline.org/wp-content/uploads/sites/3/2020/06/bernardcovid19-01.jpg">
 </p>
 
 # Project Description
@@ -57,7 +57,9 @@ Download the Python File *COVID_19_Reopening.ipynb* and open it in the IDE. Down
 ## Authors
 
 [Silvia Ji](https://www.linkedin.com/in/silviaji/) - [GitHub](github.com/jisilvia)
+
 Kassie Xie
+
 Jack Taylor
 
 
